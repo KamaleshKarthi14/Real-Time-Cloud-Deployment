@@ -4,3 +4,7 @@ I am using pkl file to Deploy the ML model and Using that model i develop a we a
 realtime Cloud .
 
 Software i am using Here : Anaconda Navigator
+
+
+
+Realtime Prediction Cloud Link for this Project after deployed in Heroku Cloud Platform : https://heart-disease-kamal.herokuapp.com/predict
