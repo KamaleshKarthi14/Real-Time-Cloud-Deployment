@@ -9,4 +9,5 @@ Software i am using Here : Anaconda Navigator
 
 
 
-Realtime Prediction Cloud Link for this Project after deployed in Heroku Cloud Platform : https://heart-disease-kamal.herokuapp.com/predict
+Realtime Prediction Cloud Link for this Project after deployed in Heroku Cloud Platform : 
+https://heart-disease-kamal.herokuapp.com/
